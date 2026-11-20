@@ -126,3 +126,26 @@ Habitly/
 
 └── README.md
 
+
+## Project Screenshots
+
+### Habitly Application
+
+![Screenshot 1](screenshots/habitly-01.png)
+
+![Screenshot 2](screenshots/habitly-02.png)
+
+![Screenshot 3](screenshots/habitly-03.png)
+
+![Screenshot 4](screenshots/habitly-04.png)
+
+![Screenshot 5](screenshots/habitly-05.png)
+
+![Screenshot 6](screenshots/habitly-06.png)
+
+![Screenshot 7](screenshots/habitly-07.png)
+
+![Screenshot 8](screenshots/habitly-08.png)
+
+![Screenshot 9](screenshots/habitly-09.png)
+
